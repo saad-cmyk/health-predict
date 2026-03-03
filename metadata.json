@@ -1,0 +1,5 @@
+{
+  "name": "HealthPredict AI Analytics",
+  "description": "A regression-based healthcare analytics system for predicting patient outcomes and managing health reports.",
+  "requestFramePermissions": []
+}
